@@ -13,7 +13,7 @@ House Prices: Advanced Regression Techniques
 ---------------------------------------------
 This is part of the [Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) where you’re challenged to predict the final price of each home WITH With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
 
-My Contribution in [Notebook](https://github.com/Mousumi44/Kaggle/blob/master/House_Prices.ipynb):[Reference](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+My Contribution in [Notebook-EDA](https://github.com/Mousumi44/Kaggle/blob/master/House_Prices.ipynb):[Ref](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 * Relationship of 'SalePrice' with numerical and categorical variable
 * Heatmap and scatterplot of 'SalePrice' and correlated varaibles
 * Outlier identification with Bivariate analysis
