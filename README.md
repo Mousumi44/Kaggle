@@ -21,7 +21,7 @@ My Contribution in [Notebook-EDA](https://github.com/Mousumi44/Kaggle/blob/maste
 * Log Transform data to attain normality
 * Convert categorical variable into dummy
 
-My Contribution in [NOtebook-MOdeling](https://github.com/Mousumi44/Kaggle/blob/master/HousePrice_Modeling.ipynb)
+My Contribution in [Notebook-Modeling](https://github.com/Mousumi44/Kaggle/blob/master/HousePrice_Modeling.ipynb)
 * Data Preprocessing
   * Identify and remove outliers
   * Log Transform data to attain normality
