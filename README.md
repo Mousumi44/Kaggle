@@ -20,3 +20,22 @@ My Contribution in [Notebook-EDA](https://github.com/Mousumi44/Kaggle/blob/maste
 * Check for 'normality', 'skewness' and 'homoscedasticity' 
 * Log Transform data to attain normality
 * Convert categorical variable into dummy
+
+My Contribution in [NOtebook-MOdeling](https://github.com/Mousumi44/Kaggle/blob/master/HousePrice_Modeling.ipynb)
+* Data Preprocessing
+  * Identify and remove outliers
+  * Log Transform data to attain normality
+* Feature Engineering
+  * Identify and impute missing data
+  * Transforming some numerical variables that are really categorical
+  * Label Encoding some categorical variables that may contain information in their ordering set
+  * Box Cox Transformation of (highly) skewed features
+ * Modeling
+  * LASSO, Elastic Net, Kernel Ridge, Gradient Boosting, XGBoost, LightGBM
+  * Stacking models
+    * Averaging base models
+    * Add a meta-model on averaged base models and use the out-of-folds predictions of these base models to train meta-model
+    * Ensembling StackedRegressor, XGBoost and LightGBM
+The submission is in Top 6% 
+  
+  
