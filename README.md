@@ -31,11 +31,11 @@ My Contribution in [Notebook-Modeling](https://github.com/Mousumi44/Kaggle/blob/
   * Label Encoding some categorical variables that may contain information in their ordering set
   * Box Cox Transformation of (highly) skewed features
  * Modeling
-  * LASSO, Elastic Net, Kernel Ridge, Gradient Boosting, XGBoost, LightGBM
-  * Stacking models
-    * Averaging base models
-    * Add a meta-model on averaged base models and use the out-of-folds predictions of these base models to train meta-model
-    * Ensembling StackedRegressor, XGBoost and LightGBM
+   * LASSO, Elastic Net, Kernel Ridge, Gradient Boosting, XGBoost, LightGBM
+   * Stacking models
+     * Averaging base models
+     * Add a meta-model on averaged base models and use the out-of-folds predictions of these base models to train meta-model
+     * Ensembling StackedRegressor, XGBoost and LightGBM
 The submission is in Top 6% 
   
   
