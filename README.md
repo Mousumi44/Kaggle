@@ -3,6 +3,8 @@ Real or Not? NLP with Disaster Tweets
 --------------------------------------
 This is part of the [Competition](https://www.kaggle.com/c/nlp-getting-started) where you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.
 
+Library Used: Tensorflow, Pandas, NumPy, Matplotlib, scikit-learn, nltk
+
 My Contribution:
 * Exploratory Data Analysis
 * Preprocessing 
@@ -12,6 +14,8 @@ My Contribution:
 House Prices: Advanced Regression Techniques
 ---------------------------------------------
 This is part of the [Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) where you’re challenged to predict the final price of each home WITH With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+
+Library Used: Pandas, NumPy, Matplotlib, scikit-learn
 
 My Contribution in [Notebook-EDA](https://github.com/Mousumi44/Kaggle/blob/master/House_Prices.ipynb):[Ref](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 * Relationship of 'SalePrice' with numerical and categorical variable
